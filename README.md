@@ -54,7 +54,7 @@ Let's start by **creating** an empty PSQL database called `nba_db` and then **se
   $ psql -f nba_seed.sql
   ```
 
-####Part 2 - Edit our seed file to import from a .csv
+### Part 2 - Edit our seed file to import from a .csv
 
 In the `nba_seed.sql` file, look at the **COPY players** statement which is currently commented out - what do you think it does?
 
