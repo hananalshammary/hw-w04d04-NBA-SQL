@@ -86,7 +86,7 @@ Some of the prompts may go a little further than what we saw in class, but shoul
 6. The average age for all players on the Oklahoma City Thunder (OKC).
 7. The average age for all players who played more than 40 games.
 
-### Part 4 - Advanced SQL Queries
+### BONUS - Advanced SQL Queries
 
 Add the following to your `nba_queries.sql` file:
 
