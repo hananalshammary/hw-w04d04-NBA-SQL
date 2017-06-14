@@ -21,7 +21,7 @@
 
 ## Setup
 
-Use the included files `nba_seed.sql` and `nba_season_2011-12.csv` to solve the following problems.
+Use the included files `nba_seed.sql`, `nba_queries.sql` and `nba_season_2011-12.csv` to solve the following problems.
 
 ## Completion
 
