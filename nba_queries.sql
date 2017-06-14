@@ -36,7 +36,7 @@
 
 
 --------------------------------------------
--- Part 4 - Advanced SQL Queries
+-- BONUS - Advanced SQL Queries
 -- write queries to select the following
 --------------------------------------------
 
