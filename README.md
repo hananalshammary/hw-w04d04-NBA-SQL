@@ -9,7 +9,7 @@
 ## Resources
 * [PostgreSQL Docs](https://www.postgresql.org/docs/9.6/static/index.html)
 * [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql/index.htm)
-* [Tims' Lecture](https://git.generalassemb.ly/wdi-nyc-5-22/introduction_to_sql/blob/master/sql_notes_updated.md)
+* [Tims' Lecture](https://git.generalassemb.ly/wdi-nyc-8-28/sql_introduction)
 
 ## Hints
 * In the **Terminal**, `psql` starts a connection to PostgreSQL
