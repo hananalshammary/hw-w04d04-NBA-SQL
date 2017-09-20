@@ -47,6 +47,9 @@ Let's start by **creating** an empty PSQL database called `nba_db` and then **se
     - `team`
     - `games`
     - `points`
+    
+    **HINT**
+    > What datatypes should each of these columns be?
   * Insert the player:<br>
     `Anderson Varejao, age: 29, team: CLE, games: 25, points: 271`
 4. Save your `nba_seed.sql` file
@@ -69,7 +72,7 @@ $ psql -f nba_seed.sql
 
 ### Part 3 - Basic SQL Queries
 
-**For Parts 3 and 4, work in the `nba_queries.sql` file.**
+**For Parts 3 and 4, work in the `nba_queries.sql` file. Run the file to test your answers by using `psql -f nba_queries.sql`**
 
 Some of the prompts may go a little further than what we saw in class, but should be very easy to Google and figure out. Some useful things to look up:
 * WHERE
@@ -98,4 +101,4 @@ Add the following to your `nba_queries.sql` file:
 
 ## Submission
 
-Homework is due by **11:00 tonight**! Remember to work with each other and go to TAs when you need it, but follow the [guidelines](https://git.generalassemb.ly/wdi-nyc-5-22/course-information/blob/master/how-to-queue-with-TAs.md) for queuing. Follow the normal [rules for homework submission](https://git.generalassemb.ly/wdi-nyc-5-22/course-information/blob/master/homework-policy.md), remember to include a link to your **repo** *Not your SSH clone link! Copy the link from the address bar. If your link starts with `git@git.generalassemb.ly:`, you have the wrong one!*.
+Homework is due by **11:00 Today!** Remember to work with each other and go to TAs when you need it, but follow the [guidelines](https://git.generalassemb.ly/wdi-nyc-8-28/Course-Information/blob/master/how-to-queue-with-TAs.md) for queuing. Follow the [rules for homework submission](https://git.generalassemb.ly/wdi-nyc-8-28/Course-Information/blob/master/homework.md) for creating your pull request to submit the homework.
