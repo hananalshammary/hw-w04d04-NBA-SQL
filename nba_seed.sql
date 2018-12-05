@@ -23,5 +23,5 @@ CREATE DATABASE nba_db;
 
 --COPY players
   --(name, age, team, games, points)
---FROM '/Users/mattgershowitz/code/wdi/turtle/homeworks/hw-u02-d06-psql_nba_style/nba_season_2011_2012.csv'
+--FROM '/Users/trevorpreston/code/wdi/homework/hw-w04d04-NBA-SQL/nba_season_2011_2012.csv'
     --DELIMITER ',' CSV;
