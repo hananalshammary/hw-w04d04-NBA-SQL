@@ -34,7 +34,7 @@ We're going to work on our Postgresql skills by practicing basic SQL commands wi
 
 Let's start by **creating** an empty PSQL database called `nba_db` and then **seeding** that database with raw information from `nba_season_2011_2012.csv`. We're going to accomplish all of this by writing PSQL commands into an SQL script called `nba_seed.sql` and then running that script.
 
-1. From the homework folder, open `nba_seed.sql` in SublimeText or your editor of choice
+1. From the homework folder, open `nba_seed.sql` in VSCode
 2. We have completed the following for you:
   * Drop a database called `nba_db` if it exists
   * Create a database called `nba_db`
