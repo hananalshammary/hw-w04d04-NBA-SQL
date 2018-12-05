@@ -9,7 +9,6 @@
 ## Resources
 * [PostgreSQL Docs](https://www.postgresql.org/docs/9.6/static/index.html)
 * [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql/index.htm)
-* [Tims' Lecture](https://git.generalassemb.ly/wdi-nyc-8-28/sql_introduction)
 
 ## Hints
 * In the **Terminal**, `psql` starts a connection to PostgreSQL
@@ -101,4 +100,4 @@ Add the following to your `nba_queries.sql` file:
 
 ## Submission
 
-Homework is due by **11:00 Today!** Remember to work with each other and go to TAs when you need it, but follow the [guidelines](https://git.generalassemb.ly/wdi-nyc-8-28/Course-Information/blob/master/how-to-queue-with-TAs.md) for queuing. Follow the [rules for homework submission](https://git.generalassemb.ly/wdi-nyc-8-28/Course-Information/blob/master/homework.md) for creating your pull request to submit the homework.
+Homework is due by **midnight Today!** 
